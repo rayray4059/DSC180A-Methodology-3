@@ -1,3 +1,2 @@
 # DSC180A-Methodology-3
-Raymond Williams
-r7williams@ucsd.edu
+Raymond Williams and Jason Huynh
